@@ -1,0 +1,16 @@
+name =                input("Nama\t\t\t: ")
+id =                  input("NIM\t\t\t: ")
+class_parallel =      input("Kelas Paralel\t\t: ")
+place_date_of_birth = input("Tempat/Tanggal Lahir\t: ")
+address =             input("Alamat\t\t\t: ")
+hobby =               input("Hobby\t\t\t: ")
+phone_number =        input("No. HP\t\t\t: ")
+
+
+print("Nama\t\t\t:", name)
+print("NIM\t\t\t:", id)
+print("Kelas Paralel\t\t:", class_parallel)
+print("Tempat/Tanggal Lahir\t:", place_date_of_birth)
+print("Alamat\t\t\t:", address)
+print("Hobby\t\t\t:", hobby)
+print("No. HP\t\t\t:", phone_number)
